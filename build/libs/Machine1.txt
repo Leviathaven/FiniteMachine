@@ -1,0 +1,10 @@
+q1 q2 q3 q4 q5 q6
+0 1 2 3 4 eps
+q2 q6
+q1
+q2_q3 q3 q4 q3 q5 -
+q2 q2 q2 q2 q2 -
+q2 q2_q6 q2 q2 q6 -
+q3 q3 q3 - - q6
+q4 q4 q4 q2 q2 -
+q6 q6 q6 q6 q3 q4
